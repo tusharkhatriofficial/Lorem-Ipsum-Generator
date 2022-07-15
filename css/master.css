@@ -54,8 +54,8 @@ h1 {
 
 @media only screen and (max-width: 600px){
 	.lorem-text {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
     padding-top: 40px;
     text-align: left;
     color: #7D9D9C;
